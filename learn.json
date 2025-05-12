@@ -1,0 +1,26 @@
+{
+  "slug": "reverse-shell-lab",
+  "title": {
+    "es": "Reverse Shell en un Servidor Web",
+    "en": "Reverse Shell on a Web Server"
+  },
+  "preview": "",
+  "solution": "",
+  "technologies": [
+    "cybersecurity",
+    "php",
+    "netcat",
+    "reverse-shell",
+    "file-upload",
+    "linux",
+    "red-team",
+    "owasp-a05-security-misconfiguration"
+  ],
+  "difficulty": "intermediate",
+  "duration": 2,
+  "projectType": "capture-the-flag",
+  "description": {
+    "es": "Aprende a explotar un formulario vulnerable a la carga de archivos para subir una reverse shell, tomar el control del servidor y capturar una flag.",
+    "en": "Learn to exploit a vulnerable file upload form to deploy a reverse shell, gain control of the server, and capture a flag."
+  }
+}
