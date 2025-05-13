@@ -13,7 +13,7 @@ In this lab, you will practice using a **reverse shell** to remotely take contro
 
 Follow these instructions to get started:
 
-1. **Download the virtual machine** from this [link]().
+1. **Download the virtual machine** from this [link](https://storage.googleapis.com/cybersecurity-machines/reverse-lab.ova).
 2. **Import the machine** into your preferred virtualization manager (VirtualBox, VMware, etc.).
 3. Once the machine is running, you can start the lab!
 
