@@ -4,10 +4,11 @@
     "es": "Reverse Shell en un Servidor Web",
     "en": "Reverse Shell on a Web Server"
   },
-  "preview": "https://github.com/4GeeksAcademy/capture-flag-web-shell-upload/blob/main/assets/preview.png?raw=true",
+  "preview": "https://github.com/breatheco-de/capture-flag-web-shell-upload/blob/main/assets/preview.png?raw=true",
   "solution": {
-    "us":"https://github.com/4GeeksAcademy/capture-flag-web-shell-upload/blob/solution/SOLUTION.md",
-    "es": "https://github.com/4GeeksAcademy/capture-flag-web-shell-upload/blob/solution/SOLUTION.es.md"},
+    "us":"https://github.com/breatheco-de/capture-flag-web-shell-upload/blob/solution/SOLUTION.md",
+    "es": "https://github.com/breatheco-de/capture-flag-web-shell-upload/blob/solution/SOLUTION.es.md"
+  },
   "technologies": [
     "cybersecurity",
     "php",
