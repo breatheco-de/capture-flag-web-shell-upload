@@ -25,5 +25,13 @@
   "description": {
     "es": "Aprende a explotar un formulario vulnerable a la carga de archivos para subir una reverse shell, tomar el control del servidor y capturar una flag.",
     "en": "Learn to exploit a vulnerable file upload form to deploy a reverse shell, gain control of the server, and capture a flag."
-  }
+  },
+  "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
 }
