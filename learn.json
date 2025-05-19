@@ -21,7 +21,7 @@
   ],
   "difficulty": "intermediate",
   "duration": 2,
-  "projectType": "capture-the-flag",
+  "projectType": "project",
   "description": {
     "es": "Aprende a explotar un formulario vulnerable a la carga de archivos para subir una reverse shell, tomar el control del servidor y capturar una flag.",
     "en": "Learn to exploit a vulnerable file upload form to deploy a reverse shell, gain control of the server, and capture a flag."
