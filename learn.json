@@ -7,7 +7,7 @@
   "preview": "https://github.com/breatheco-de/capture-flag-web-shell-upload/blob/main/assets/preview.png?raw=true",
   "solution": {
     "us":"https://github.com/breatheco-de/capture-flag-web-shell-upload/blob/solution/SOLUTION.md",
-    "es": "https://github.com/breatheco-de/capture-flag-web-shell-upload/blob/solution/SOLUTION.es.md"
+    "us": "https://github.com/breatheco-de/capture-flag-web-shell-upload/blob/solution/SOLUTION.es.md"
   },
   "technologies": [
     "cybersecurity",
@@ -24,7 +24,7 @@
   "projectType": "project",
   "description": {
     "es": "Aprende a explotar un formulario vulnerable a la carga de archivos para subir una reverse shell, tomar el control del servidor y capturar una flag.",
-    "en": "Learn to exploit a vulnerable file upload form to deploy a reverse shell, gain control of the server, and capture a flag. This lab provides a realistic simulation of a common initial access technique used by attackers and highlights the importance of implementing proper security controls on file upload features."
+    "us": "Learn to exploit a vulnerable file upload form to deploy a reverse shell, gain control of the server, and capture a flag. This lab provides a realistic simulation of a common initial access technique used by attackers and highlights the importance of implementing proper security controls on file upload features."
   },
   "delivery": {
 		"instructions": {
